@@ -6,14 +6,14 @@ import tkinter as tk
 
 #modules end
 
-#essientals
+#essentials
 root = tk.Tk()
 root.title("simple brm5 calc")
 frame1 = ttk.Frame(root, padding=10)
 def buttononeclicked():
     root.destroy()
 testvar = root.attributes("-alpha",0.92)
-#essientals end
+#esentials end
 
 #interactable elements
 
